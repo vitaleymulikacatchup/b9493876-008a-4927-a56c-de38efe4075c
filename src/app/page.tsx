@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -120,8 +120,7 @@ export default function Home() {
               company: "TechFlow Solutions",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6894103/pexels-photo-6894103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Sarah Johnson CEO portrait",
-              testimonial: "MarketFlow transformed our digital presence and increased our leads by 300% in just 6 months. Their strategic approach and attention to detail is unmatched."
+              imageAlt: "Sarah Johnson CEO portrait"
             },
             {
               id: "2",
@@ -130,8 +129,7 @@ export default function Home() {
               company: "InnovateHub",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/12800926/pexels-photo-12800926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Chen marketing director portrait",
-              testimonial: "Working with MarketFlow has been a game-changer. Their data-driven approach helped us optimize our campaigns and achieve a 250% ROI increase."
+              imageAlt: "Michael Chen marketing director portrait"
             },
             {
               id: "3",
@@ -140,8 +138,7 @@ export default function Home() {
               company: "GrowthLab",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5716031/pexels-photo-5716031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Emily Rodriguez founder portrait",
-              testimonial: "The team at MarketFlow doesn't just execute campaigns - they become true partners in your growth. Their insights and creativity drove exceptional results for us."
+              imageAlt: "Emily Rodriguez founder portrait"
             },
             {
               id: "4",
@@ -150,8 +147,7 @@ export default function Home() {
               company: "ScaleUp Inc",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7109087/pexels-photo-7109087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "David Kim VP of sales portrait",
-              testimonial: "MarketFlow's strategic marketing approach helped us scale from startup to market leader. Their expertise in digital marketing is truly world-class."
+              imageAlt: "David Kim VP of sales portrait"
             }
           ]}
         />
