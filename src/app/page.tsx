@@ -42,7 +42,7 @@ export default function Home() {
           description="We help ambitious companies scale their reach, increase conversions, and build lasting customer relationships through data-driven marketing strategies and creative campaigns."
           tag="Marketing Agency"
           tagIcon={TrendingUp}
-          imageSrc="https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/tmp/a-group-of-corporate-men-in-office-photo-1762496472708-c2f1ad43.jpg"
           imageAlt="Marketing team collaborating on strategy"
           imagePosition="right"
           buttons={[
